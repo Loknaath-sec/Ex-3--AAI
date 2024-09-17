@@ -1,4 +1,4 @@
-# Implementation of Approximate Inference in Bayesian Networks
+# Exp-03: Implementation of Approximate Inference in Bayesian Networks
 
 ### Name: Loknaath P
 ### Register No: 212223240080
